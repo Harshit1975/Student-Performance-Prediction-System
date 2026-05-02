@@ -43,6 +43,8 @@ graph TD
     B -->|Export| F[Academic TXT Report]
 ```
 
+<img width="1658" height="892" alt="Screenshot 2026-05-02 105354" src="https://github.com/user-attachments/assets/f10b1947-e690-46dd-8b91-ac8443e7206c" />
+
 ---
 
 ## 🛠️ Technical Stack & Implementation
@@ -92,6 +94,9 @@ When discussing this project in a technical interview, focus on these three pill
 
 ---
 
+<img width="1334" height="735" alt="Screenshot 2026-05-02 105454" src="https://github.com/user-attachments/assets/96252cca-de2c-4558-be37-ad5895377a76" />
+
+
 ## 🚀 Setup & Execution
 
 ### Backend
@@ -108,3 +113,7 @@ npm install && npm run dev
 
 ---
 *Developed with a commitment to Full-Stack excellence and data-driven education.*
+
+
+<img width="1332" height="708" alt="Screenshot 2026-05-02 105443" src="https://github.com/user-attachments/assets/4d659bce-4e72-4ae5-9279-49141f790f30" />
+
