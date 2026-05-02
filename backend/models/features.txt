@@ -1,0 +1,1 @@
+gender,school_type,prior_gpa,attendance_pct,quiz_avg,assign_avg,midterm,study_hours_wk,on_time_submit_pct,lms_logins_wk,forum_posts,parent_edu,commute_min
